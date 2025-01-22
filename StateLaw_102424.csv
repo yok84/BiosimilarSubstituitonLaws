@@ -1,0 +1,51 @@
+﻿State,state_code (marketscan),active_authorization,phys_notification_lt5days,refill_notification,patient_notification,record_time,enhanced_label,liability_unspecified,summary_score
+Alabama,41,1,1,0,1,0,0,1,4
+Alaska,61,0,1,0,1,1,0,0,3
+Arizona,52,0,0,0,1,1,1,0,3
+Arkansas,46,0,0,0,1,1,0,1,3
+California,62,0,0,0,1,0,0,0,1
+Colorado,53,0,0,0,1,1,1,0,3
+Connecticut,04,0,1,0,1,0,1,1,4
+Delaware,32,0,0,0,1,1,1,1,4
+Florida,33,0,0,1,1,1,0,1,4
+Georgia,34,0,1,0,1,1,1,1,5
+Idaho,54,0,0,0,0,0,0,1,1
+Illinois,16,0,0,0,1,1,0,1,3
+Indiana,17,1,0,0,1,1,0,1,4
+Iowa,22,0,0,0,1,0,0,1,2
+Kansas,23,0,0,0,1,1,0,1,3
+Kentucky,42,0,0,0,1,0,0,0,1
+Louisiana,47,0,0,0,1,0,0,1,2
+Maine,05,0,0,0,1,0,1,1,3
+Maryland,35,0,0,0,1,1,1,0,3
+Massachusetts,06,0,0,1,1,1,0,1,4
+Michigan,18,0,0,0,1,0,1,1,3
+Minnesota,24,0,0,0,1,0,0,1,2
+Mississippi,43,0,0,0,1,0,1,1,3
+Missouri,25,0,0,0,1,1,1,0,3
+Montana,55,0,0,0,0,1,0,1,2
+Nebraska,26,0,1,0,1,0,0,1,3
+Nevada,56,0,1,0,1,0,1,0,3
+New Hampshire,07,0,1,0,1,0,1,1,4
+New Jersey,11,0,0,0,0,1,1,1,3
+New Mexico,57,0,0,0,1,0,1,1,3
+New York,12,0,0,0,0,0,1,1,2
+North Carolina,36,1,0,0,0,0,0,0,1
+North Dakota,27,0,1,0,1,1,0,1,4
+Ohio,19,0,0,0,1,0,1,0,2
+Oklahoma,48,0,0,0,1,0,0,1,2
+Oregon,64,0,0,0,1,1,0,1,3
+Pennsylvania,13,0,1,0,1,1,1,1,5
+Rhode Island,08,0,0,0,1,0,0,1,2
+South Carolina,37,1,0,0,1,0,1,1,4
+South Dakota,28,0,0,0,1,0,1,0,2
+Tennessee,44,0,0,0,1,1,1,0,3
+Texas,49,0,0,0,1,0,1,0,2
+Utah,58,0,0,0,1,0,0,0,1
+Vermont,09,0,0,0,1,0,0,1,2
+Virginia,38,0,0,1,1,1,1,1,5
+Washington,65,1,0,0,1,1,0,0,3
+West Virginia,39,0,0,0,1,1,1,0,3
+Wisconsin,20,0,0,0,1,0,0,0,1
+Wyoming,59,0,0,0,1,0,1,1,3
+Hawaii,63,0,1,0,1,0,0,1,3
